@@ -1,0 +1,41 @@
+Variable Declaration:
+    The variable declaration is in python very easy 
+    below is the example of declaration of a variable
+    x=10
+
+    here x is a variable
+    10 is a value
+
+    that means the value of "10" is stored in "x" variable
+
+    Tex:- str 
+    Numeric:- int, float, complex
+    sequence:- list, range, tuple
+    mapping:- dict
+    set:- set
+    boolean:- bool 
+
+    Input/outpu:- taking input is called as input getting output is called as a outpu
+
+    Ex input:- x = input("Enter any number");
+
+    Ex outpu:- print(type(x));
+
+    Operators & operands:-
+    ----------------------
+
+    Arithmetic operator:- +, -, *, %
+
+    Assignment operator:- =, +=, -=, *=, /=, %=
+
+    Comparison operator:- <, >, <= >= ==, !=
+
+    Logical operator:- AND, OR, NOT
+
+    Identity operator:- is --> "=", isnot---> "!=" it is used for compare of object.
+
+    Membership operator:- in and notin it is used to check the operator in container like list, tuple 
+
+    Bitwise operator:- "& | !" it is used to check the two numbers  
+
+LIST, TUPLES SET DICTIONARIES
